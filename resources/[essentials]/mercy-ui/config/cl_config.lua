@@ -1,5 +1,6 @@
 Config = Config or {}
 
+
 -- Eye
 --[[
     Here's a example on how to place a interaction on a specific 'bone'.
